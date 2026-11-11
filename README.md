@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/horiseon-challenge/"><strong>Live Demo</strong></a></p>
+<p align="center"><a href="https://christianjkrantz.github.io/horiseon-challenge/"><strong>Live Demo</strong></a></p>
 
 <p align="center">
   <img src="docs/screenshot.jpg" alt="Full Horiseon landing page on desktop with hero image, three service sections and a benefits sidebar" width="560" align="top">
@@ -55,10 +55,10 @@ No build step is needed.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ChristianKrantz11/horiseon-challenge.git
+   git clone https://github.com/ChristianJKrantz/horiseon-challenge.git
    ```
 2. Open `index.html` in your browser.
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianJKrantz)
